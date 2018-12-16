@@ -20,3 +20,4 @@ extension Acronym: Content {}
     typealias  ID = Int
     public static var idKey: IDKey = \Acronym.id
 } */
+extension Acronym: Parameter {}
